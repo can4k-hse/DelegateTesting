@@ -1,0 +1,14 @@
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\bin\Debug\net8.0\DelegateTesting.exe
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\bin\Debug\net8.0\DelegateTesting.deps.json
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\bin\Debug\net8.0\DelegateTesting.runtimeconfig.json
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\bin\Debug\net8.0\DelegateTesting.dll
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\bin\Debug\net8.0\DelegateTesting.pdb
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.AssemblyInfoInputs.cache
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.AssemblyInfo.cs
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.dll
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\refint\DelegateTesting.dll
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.pdb
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.genruntimeconfig.cache
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\ref\DelegateTesting.dll
