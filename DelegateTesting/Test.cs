@@ -3,7 +3,7 @@
 public class Test
 {
     public delegate void Sort(int[] arr);
-
+    
     private Sort _sort;
     
     public Test(Sort sort)

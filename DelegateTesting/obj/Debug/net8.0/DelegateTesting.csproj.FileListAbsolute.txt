@@ -12,3 +12,4 @@ C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.
 C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.pdb
 C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.genruntimeconfig.cache
 C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\ref\DelegateTesting.dll
+C:\Users\Alexander\RiderProjects\DelegateTesting\DelegateTesting\obj\Debug\net8.0\DelegateTesting.sourcelink.json

@@ -15,6 +15,33 @@ public class Algo
     }
 
     /// <summary>
+    /// Сортировка пузырьком
+    /// </summary>
+    /// <param name="arr"></param>
+    public static void BubbleSort(int[] arr)
+    {
+        List<int> res = [];
+        for (int i = 0; i < arr.Length; i++)
+        {
+            int ind = i;
+            
+            for (int j = 0; j < arr.Length; j++)
+            {
+                if (arr[ind] > arr[j])
+                {
+                    ind = j;
+                }
+            }
+            
+            res.Add(arr[ind]);
+            arr[ind] = int.MaxValue;
+            onHandler.Invoke(arr);
+        }
+
+        arr = res.ToArray();
+    }
+
+    /// <summary>
     /// Метод упорядочивает подотрезок [l, r] данного массива
     /// </summary>
     /// <param name="arr">данный массив</param>
