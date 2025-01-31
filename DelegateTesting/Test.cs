@@ -1,4 +1,10 @@
-﻿namespace Code;
+﻿// Author: Alexander Yakovlev
+// CreatedAt: 31 января 2025 г. 10:56:01
+// Filename: Test.cs
+// Summary: Класс тестирования, организующий генерацию массивов и тестирование их сортировок
+
+
+namespace Code;
 
 public class Test
 {
@@ -14,7 +20,6 @@ public class Test
     /// <summary>
     /// Тестирует сортировку по неубыванию на случайном наборе тестов
     /// </summary>
-    /// <param name="sort"></param>
     /// <param name="iterations"></param>
     public void TestSort(int iterations=1000)
     {

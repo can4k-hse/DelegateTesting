@@ -1,4 +1,10 @@
-﻿namespace Code;
+﻿// Author: Alexander Yakovlev
+// CreatedAt: 31 января 2025 г. 11:29:39
+// Filename: Watchers.cs
+// Summary: Класс наблюдателей, отслеживающих прогресс сортировки
+
+
+namespace Code;
 
 public class Watchers
 {

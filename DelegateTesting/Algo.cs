@@ -1,6 +1,12 @@
-﻿namespace Code;
+﻿// Author: Alexander Yakovlev
+// CreatedAt: 31 января 2025 г. 10:40:59
+// Filename: Algo.cs
+// Summary: Статических класс, содержащий алгоритмы (сортировки)
 
-public class Algo
+
+namespace Code;
+
+public static class Algo
 {
     public delegate void Handler(int[] arr);
     public static event Handler onHandler;
